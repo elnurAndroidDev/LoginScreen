@@ -1,2 +1,2 @@
 # easyCodeRuLectures
-Проект по лекциям easyCodeRu
+Первый проект по лекциям easyCodeRu
